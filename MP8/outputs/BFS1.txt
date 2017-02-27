@@ -1,0 +1,7 @@
+Start of maze at (0, 1)
+%%%%%
+S.% %
+%.% %
+%...E
+%%%%%
+Maze is correct!
